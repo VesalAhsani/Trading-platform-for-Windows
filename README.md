@@ -1,0 +1,1 @@
+# Trading-platform-for-Windows
