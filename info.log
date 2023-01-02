@@ -1,0 +1,1286 @@
+2022-12-31 18:37:07,632 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 18:37:08,888 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-12-31 18:37:08,969 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 18:37:09,772 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672499228928&signature=22a2ae3d2f5fc5f6f37be1bcf665fb03f8dda279c6ab1d8963022dfd38c43cb5 HTTP/1.1" 200 None
+2022-12-31 18:37:09,780 INFO :: Binance Futures Client successfully initialized
+2022-12-31 18:37:09,783 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2022-12-31 18:37:10,874 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 403 None
+2022-12-31 18:37:11,496 INFO :: Binance connection opened
+2022-12-31 18:37:11,512 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2022-12-31 18:37:11,513 WARNING :: websocket connected
+2022-12-31 18:39:15,082 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 18:39:15,897 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-12-31 18:39:15,925 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 18:39:16,940 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672499355921&signature=8ab9b4bd4d5510db2c536bf06bd6bed4e0d27a46ca8c7e09e4147382c2c1aaf6 HTTP/1.1" 200 None
+2022-12-31 18:39:16,947 INFO :: Binance Futures Client successfully initialized
+2022-12-31 18:39:16,950 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2022-12-31 18:39:17,482 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 403 None
+2022-12-31 18:39:18,384 INFO :: Binance connection opened
+2022-12-31 18:39:18,439 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2022-12-31 18:39:18,440 WARNING :: websocket connected
+2022-12-31 18:53:39,478 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 18:53:40,820 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeinfo HTTP/1.1" 404 None
+2022-12-31 18:53:45,789 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 18:53:46,563 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeinfo HTTP/1.1" 404 None
+2022-12-31 22:18:51,023 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 22:18:52,307 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-12-31 22:18:52,355 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 22:18:53,040 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672512532345&signature=a04d072602016ebedd8ff7567fa7c328ef1c74538e6c868de5487a08ff73d949 HTTP/1.1" 200 None
+2022-12-31 22:20:32,245 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 22:20:32,935 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-12-31 22:20:32,952 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 22:20:34,030 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672512632947&signature=dbb42ef372cf3cefa165b72d818ad777668b2df183a74ad6dafd93ee470ca1c9 HTTP/1.1" 200 None
+2022-12-31 22:20:34,048 INFO :: Binance Futures Client successfully initialized
+2022-12-31 22:20:34,056 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2022-12-31 22:20:34,980 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 403 None
+2022-12-31 22:20:35,650 INFO :: Binance connection opened
+2022-12-31 22:20:35,652 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2022-12-31 22:20:35,653 WARNING :: websocket connected
+2022-12-31 23:12:57,003 ERROR :: Connection to remote host was lost. - goodbye
+2022-12-31 23:12:57,408 ERROR :: Binance connection error: Connection to remote host was lost.
+2022-12-31 23:12:58,109 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x00000208122E6750>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2022-12-31 23:12:58,110 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2022-12-31 23:13:03,459 INFO :: Binance connection opened
+2022-12-31 23:13:03,539 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2022-12-31 23:13:03,539 WARNING :: websocket connected
+2022-12-31 23:17:43,022 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:17:44,083 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-12-31 23:17:44,137 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:17:44,785 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672516064122&signature=1834b0b4232dd0890f25f64ad10cebeea57309bc1c43a68caf104206a1c2b456 HTTP/1.1" 200 None
+2022-12-31 23:17:44,806 INFO :: Binance Futures Client successfully initialized
+2022-12-31 23:17:44,812 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2022-12-31 23:17:45,566 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 403 None
+2022-12-31 23:17:46,454 INFO :: Binance connection opened
+2022-12-31 23:17:46,473 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2022-12-31 23:17:46,474 WARNING :: websocket connected
+2022-12-31 23:21:14,242 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:21:15,236 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-12-31 23:21:15,274 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:21:15,906 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672516275267&signature=8d6edc6d36751eb52aa3d7b0415b99f3c375d8768de5f76754d76e58bb6edb01 HTTP/1.1" 200 None
+2022-12-31 23:21:15,915 INFO :: Binance Futures Client successfully initialized
+2022-12-31 23:21:17,450 INFO :: Binance connection opened
+2022-12-31 23:21:17,451 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2022-12-31 23:21:17,452 WARNING :: websocket connected
+2022-12-31 23:22:51,665 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:22:52,344 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-12-31 23:22:52,375 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:22:53,020 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672516372373&signature=b191fa7e76b3149f39ef9d95198f198f120bf09d52624212bcb0d1820bfd37e5 HTTP/1.1" 200 None
+2022-12-31 23:22:53,037 INFO :: Binance Futures Client successfully initialized
+2022-12-31 23:22:54,757 INFO :: Binance connection opened
+2022-12-31 23:22:54,758 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2022-12-31 23:22:54,759 WARNING :: websocket connected
+2022-12-31 23:24:24,004 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:24:24,884 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-12-31 23:24:24,921 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:24:25,578 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672516464915&signature=7ca94b077c04f2d9325b0688d8fadaa66dea170d8c3e29a50dbf7f9eec687612 HTTP/1.1" 200 None
+2022-12-31 23:24:25,595 INFO :: Binance Futures Client successfully initialized
+2022-12-31 23:24:25,602 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2022-12-31 23:24:26,478 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 403 None
+2022-12-31 23:24:27,177 INFO :: Binance connection opened
+2022-12-31 23:24:27,179 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2022-12-31 23:24:27,180 WARNING :: websocket connected
+2022-12-31 23:41:18,370 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:41:19,498 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-12-31 23:41:19,540 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:41:20,182 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672517479533&signature=c96c12dd0ccfd156bf5ffedd16f0705610f03f6f35062a572176c95df2037e56 HTTP/1.1" 200 None
+2022-12-31 23:41:20,199 INFO :: Binance Futures Client successfully initialized
+2022-12-31 23:41:20,207 DEBUG :: Starting new HTTPS connection (1): www.bitmex.com:443
+2022-12-31 23:41:20,776 DEBUG :: https://www.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 403 None
+2022-12-31 23:41:21,675 INFO :: Binance connection opened
+2022-12-31 23:41:21,676 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2022-12-31 23:41:21,677 WARNING :: websocket connected
+2022-12-31 23:44:09,615 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:44:10,779 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-12-31 23:44:10,818 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:44:11,489 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672517650810&signature=3995d87681ab9bdc6892c0f22ed9906d736e923f19bfa5c4674e374a69a25f3c HTTP/1.1" 200 None
+2022-12-31 23:44:11,507 INFO :: Binance Futures Client successfully initialized
+2022-12-31 23:44:15,764 INFO :: Binance connection opened
+2022-12-31 23:44:15,765 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2022-12-31 23:44:15,766 WARNING :: websocket connected
+2022-12-31 23:46:07,197 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:46:07,898 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-12-31 23:46:07,912 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:46:08,580 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672517767909&signature=d83fd098acd08f05350ff9f11b0bf94155eac23c04609202c6f00fff5c148146 HTTP/1.1" 200 None
+2022-12-31 23:46:08,598 INFO :: Binance Futures Client successfully initialized
+2022-12-31 23:46:08,603 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2022-12-31 23:46:09,402 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 403 None
+2022-12-31 23:46:10,093 INFO :: Binance connection opened
+2022-12-31 23:46:10,095 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2022-12-31 23:46:10,096 WARNING :: websocket connected
+2022-12-31 23:58:49,285 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:58:50,219 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2022-12-31 23:58:50,248 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2022-12-31 23:58:50,885 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672518530245&signature=5729690a2f43f4e603fb00cbcaf8411d6001e33a89d9c03c67f4c95b4105ec85 HTTP/1.1" 200 None
+2022-12-31 23:58:50,892 INFO :: Binance Futures Client successfully initialized
+2022-12-31 23:58:50,895 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2022-12-31 23:58:51,516 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 403 None
+2022-12-31 23:58:52,423 INFO :: Binance connection opened
+2022-12-31 23:58:52,479 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2022-12-31 23:58:52,480 WARNING :: websocket connected
+2023-01-01 09:32:35,178 ERROR :: Connection to remote host was lost. - goodbye
+2023-01-01 09:32:50,931 ERROR :: Binance connection error: Connection to remote host was lost.
+2023-01-01 09:32:58,521 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x0000019A06BA0890>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-01-01 09:32:58,522 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-01-01 09:33:20,598 INFO :: Binance connection opened
+2023-01-01 09:33:21,007 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-01-01 09:33:21,007 WARNING :: websocket connected
+2023-01-01 19:49:05,071 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 19:50:26,549 ERROR :: Connection error while making GET request to /fapi/v1/exchangeInfo: HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Max retries exceeded with url: /fapi/v1/exchangeInfo (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:992)')))
+2023-01-01 19:50:26,652 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 19:51:59,363 ERROR :: Connection error while making GET request to /fapi/v1/account: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+2023-01-01 19:51:59,754 INFO :: Binance Futures Client successfully initialized
+2023-01-01 19:51:59,759 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-01-01 19:52:01,947 INFO :: Binance connection opened
+2023-01-01 19:52:01,947 ERROR :: error from callback <bound method BinanceClient._on_open of <connectors.binance.BinanceClient object at 0x000001CA37A8BA50>>: 'BTCUSDT'
+2023-01-01 19:52:01,947 ERROR :: Binance connection error: 'BTCUSDT'
+2023-01-01 19:52:01,948 WARNING :: websocket connected
+2023-01-01 19:52:02,005 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 403 None
+2023-01-01 19:53:17,675 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 19:53:27,243 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-01-01 19:53:27,258 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 19:53:29,020 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672590207254&signature=6e2a62b7563ca995d73322a3f24d5e14f68dcc6554e470a8a33bfe80a7c4bcb7 HTTP/1.1" 200 None
+2023-01-01 19:53:29,058 INFO :: Binance Futures Client successfully initialized
+2023-01-01 19:53:29,061 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-01-01 19:53:29,607 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 403 None
+2023-01-01 19:53:30,581 INFO :: Binance connection opened
+2023-01-01 19:53:30,598 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-01-01 19:53:30,599 WARNING :: websocket connected
+2023-01-01 19:59:01,425 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 19:59:07,418 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-01-01 19:59:07,453 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 19:59:10,418 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672590547450&signature=220af1f0420337d8be56c76246028d20eb656eb96034196bfb5e650a407ebbfa HTTP/1.1" 200 None
+2023-01-01 19:59:10,430 INFO :: Binance Futures Client successfully initialized
+2023-01-01 19:59:10,434 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-01-01 19:59:16,153 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-01-01 19:59:16,502 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-01-01 19:59:16,825 INFO :: Binance connection opened
+2023-01-01 19:59:16,839 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-01-01 19:59:16,840 WARNING :: websocket connected
+2023-01-01 19:59:26,755 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 400 120
+2023-01-01 19:59:26,760 ERROR :: Error while making GET request to /api/v1/user/margin: {'error': {'message': 'This request has expired - `expires` is in the past. Current time: 1672590564', 'name': 'HTTPError'}} (error code 400)
+2023-01-01 19:59:26,766 INFO :: Bitmex Client successfully initialized
+2023-01-01 19:59:30,025 INFO :: Bitmex connection opened
+2023-01-01 19:59:30,026 WARNING :: websocket connected
+2023-01-01 19:59:55,014 INFO :: Binance: subscribing to: ethusdt@bookTicker
+2023-01-01 19:59:55,017 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 19:59:56,590 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=ETHUSDT HTTP/1.1" 200 None
+2023-01-01 20:00:01,136 INFO :: Binance: subscribing to: adausdt@bookTicker
+2023-01-01 20:00:01,144 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:00:03,834 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=ADAUSDT HTTP/1.1" 200 None
+2023-01-01 20:01:23,792 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:01:30,029 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=BTCUSDT&interval=1m&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:01:30,479 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2023-01-01 20:01:32,799 WARNING :: Binance BTCUSDT: 2442 milliseconds of difference between the current time and the trade time
+2023-01-01 20:02:08,898 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:02:43,022 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:02:50,432 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=ETHUSDT&interval=15m&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:02:51,033 WARNING :: Binance BTCUSDT: 2276 milliseconds of difference between the current time and the trade time
+2023-01-01 20:02:51,151 INFO :: Binance: subscribing to: ethusdt@aggTrade
+2023-01-01 20:03:04,339 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:04:02,122 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:04:32,211 WARNING :: Binance ETHUSDT: 2179 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,212 WARNING :: Binance ETHUSDT: 2180 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,212 WARNING :: Binance ETHUSDT: 2180 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,212 WARNING :: Binance ETHUSDT: 2180 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,213 WARNING :: Binance ETHUSDT: 2181 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,213 WARNING :: Binance ETHUSDT: 2181 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,213 WARNING :: Binance ETHUSDT: 2181 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,216 WARNING :: Binance ETHUSDT: 2184 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,216 WARNING :: Binance ETHUSDT: 2184 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,217 WARNING :: Binance ETHUSDT: 2185 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,217 WARNING :: Binance ETHUSDT: 2185 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,218 WARNING :: Binance ETHUSDT: 2186 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,218 WARNING :: Binance ETHUSDT: 2186 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,219 WARNING :: Binance ETHUSDT: 2187 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,219 WARNING :: Binance ETHUSDT: 2187 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,219 WARNING :: Binance ETHUSDT: 2187 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,220 WARNING :: Binance ETHUSDT: 2188 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,245 WARNING :: Binance ETHUSDT: 2213 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,246 WARNING :: Binance ETHUSDT: 2214 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,246 WARNING :: Binance ETHUSDT: 2214 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,247 WARNING :: Binance ETHUSDT: 2215 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,247 WARNING :: Binance ETHUSDT: 2215 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,247 WARNING :: Binance ETHUSDT: 2215 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,248 WARNING :: Binance ETHUSDT: 2216 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,248 WARNING :: Binance ETHUSDT: 2216 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,249 WARNING :: Binance ETHUSDT: 2217 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,249 WARNING :: Binance ETHUSDT: 2217 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,249 WARNING :: Binance ETHUSDT: 2217 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:32,250 WARNING :: Binance ETHUSDT: 2218 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:36,248 INFO :: Getting Binance trade size...
+2023-01-01 20:04:36,257 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:04:48,867 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672590876249&signature=d80601da71a607f90cffce9ef8c82e4c7ff50a2a7351e05dfe546b5bd28c8d29 HTTP/1.1" 400 79
+2023-01-01 20:04:48,875 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:04:48,878 WARNING :: Binance BTCUSDT: 14411 milliseconds of difference between the current time and the trade time
+2023-01-01 20:04:48,879 INFO :: Getting Binance trade size...
+2023-01-01 20:04:48,889 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:05:01,698 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672590888880&signature=21145653a6c676d11470e4a092b5694a2505fa96ec66df441c52a5034cff16dc HTTP/1.1" 400 79
+2023-01-01 20:05:01,708 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:05:01,710 WARNING :: Binance ETHUSDT: 27005 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:01,711 WARNING :: Binance ETHUSDT: 25723 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:01,714 WARNING :: Binance ETHUSDT: 25726 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:01,716 WARNING :: Binance ETHUSDT: 23542 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:01,718 WARNING :: Binance BTCUSDT: 23191 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:01,720 WARNING :: Binance BTCUSDT: 21438 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:01,721 INFO :: Getting Binance trade size...
+2023-01-01 20:05:01,729 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:05:03,137 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672590901721&signature=b5e93b0c2ee27cd7900c204c35b1d031f77138212999e903ea688aa0d70b33ab HTTP/1.1" 200 None
+2023-01-01 20:05:03,151 INFO :: Binance current USDT balance = 14947.7210299, trade size = 0.009
+2023-01-01 20:05:03,152 INFO :: Long signal on BTCUSDT 1m
+2023-01-01 20:05:03,161 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:05:04,935 DEBUG :: https://testnet.binancefuture.com:443 "POST /fapi/v1/order?symbol=BTCUSDT&side=BUY&quantity=0.009&type=MARKET&timestamp=1672590903152&signature=fc1dbeeaaec26a5b89c9a27a64888959dde2c8205a68863bbefddda79c4cc33c HTTP/1.1" 200 None
+2023-01-01 20:05:04,950 INFO :: Buy order placed on Binance | Status: new
+2023-01-01 20:05:04,956 WARNING :: Binance ETHUSDT: 20613 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,959 WARNING :: Binance BTCUSDT: 18515 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,962 WARNING :: Binance ETHUSDT: 16474 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,967 WARNING :: Binance ETHUSDT: 10744 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,969 WARNING :: Binance BTCUSDT: 8347 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,971 WARNING :: Binance BTCUSDT: 8134 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,975 WARNING :: Binance ETHUSDT: 4187 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,976 WARNING :: Binance ETHUSDT: 4188 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,977 WARNING :: Binance ETHUSDT: 4189 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,979 WARNING :: Binance ETHUSDT: 4191 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,981 WARNING :: Binance BTCUSDT: 3746 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,981 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:05:04,983 WARNING :: Binance BTCUSDT: 3748 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,984 WARNING :: Binance BTCUSDT: 3705 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,988 WARNING :: Binance ETHUSDT: 2949 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:04,989 WARNING :: Binance BTCUSDT: 2707 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:06,966 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:05:08,752 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/order?timestamp=1672590906958&symbol=BTCUSDT&orderId=3271253513&signature=0e52f42aa8cf33285717c0a7bbf79fef14b3d6fa52fc93d011378e62fcaff12b HTTP/1.1" 200 None
+2023-01-01 20:05:08,774 INFO :: Binance order status: filled
+2023-01-01 20:05:40,548 WARNING :: Binance BTCUSDT: 2171 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:42,199 WARNING :: Binance ETHUSDT: 2147 milliseconds of difference between the current time and the trade time
+2023-01-01 20:05:43,445 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:05:46,980 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=1000LUNCBUSD&interval=1m&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:05:47,028 INFO :: Binance: subscribing to: 1000luncbusd@aggTrade
+2023-01-01 20:05:47,030 INFO :: Binance: subscribing to: 1000luncbusd@bookTicker
+2023-01-01 20:05:47,745 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:05:56,339 WARNING :: Binance ETHUSDT: 2173 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:08,259 WARNING :: Binance ETHUSDT: 4185 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:08,261 WARNING :: Binance ETHUSDT: 4186 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:08,263 WARNING :: Binance ETHUSDT: 2106 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:10,362 WARNING :: Binance ETHUSDT: 2105 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:17,919 WARNING :: Binance ETHUSDT: 3467 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:18,881 WARNING :: Binance ETHUSDT: 2820 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:18,883 WARNING :: Binance BTCUSDT: 2691 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:18,883 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:06:19,307 WARNING :: Binance ETHUSDT: 2295 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:20,146 ERROR :: Connection error while making GET request to /fapi/v1/klines: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-01-01 20:06:20,209 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:06:33,508 WARNING :: Binance BTCUSDT: 11250 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:33,509 WARNING :: Binance BTCUSDT: 11036 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:33,511 WARNING :: Binance BTCUSDT: 11038 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:33,512 WARNING :: Binance BTCUSDT: 10060 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:33,515 WARNING :: Binance ETHUSDT: 9161 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:33,517 WARNING :: Binance ETHUSDT: 9148 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:33,898 WARNING :: Binance ETHUSDT: 9461 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:33,901 WARNING :: Binance BTCUSDT: 7526 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:33,904 WARNING :: Binance ETHUSDT: 5698 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:34,273 WARNING :: Binance ETHUSDT: 6051 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:34,276 WARNING :: Binance BTCUSDT: 4151 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:34,279 WARNING :: Binance BTCUSDT: 3915 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:34,280 WARNING :: Binance ETHUSDT: 3901 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:34,282 WARNING :: Binance ETHUSDT: 2258 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:36,222 WARNING :: Binance BTCUSDT: 2183 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:40,487 WARNING :: Binance ETHUSDT: 2178 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:45,452 WARNING :: Binance ETHUSDT: 3006 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:45,870 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=1000LUNCBUSD&interval=4h&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:06:55,518 WARNING :: Binance BTCUSDT: 2154 milliseconds of difference between the current time and the trade time
+2023-01-01 20:06:58,669 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:07:01,951 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=ADAUSDT&interval=1m&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:07:02,146 INFO :: Binance: subscribing to: adausdt@aggTrade
+2023-01-01 20:07:02,322 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:07:06,691 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:07:09,403 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=ATOMUSDT&interval=30m&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:07:09,807 INFO :: Binance: subscribing to: atomusdt@aggTrade
+2023-01-01 20:07:09,808 INFO :: Binance: subscribing to: atomusdt@bookTicker
+2023-01-01 20:07:13,130 WARNING :: Binance ETHUSDT: 2159 milliseconds of difference between the current time and the trade time
+2023-01-01 20:07:13,132 WARNING :: Binance ETHUSDT: 2161 milliseconds of difference between the current time and the trade time
+2023-01-01 20:08:01,834 WARNING :: Binance ETHUSDT: 2107 milliseconds of difference between the current time and the trade time
+2023-01-01 20:08:01,835 WARNING :: Binance ETHUSDT: 2108 milliseconds of difference between the current time and the trade time
+2023-01-01 20:08:01,836 WARNING :: Binance ETHUSDT: 2109 milliseconds of difference between the current time and the trade time
+2023-01-01 20:08:01,837 WARNING :: Binance ETHUSDT: 2110 milliseconds of difference between the current time and the trade time
+2023-01-01 20:08:01,839 WARNING :: Binance ETHUSDT: 2111 milliseconds of difference between the current time and the trade time
+2023-01-01 20:08:01,842 WARNING :: Binance ETHUSDT: 2114 milliseconds of difference between the current time and the trade time
+2023-01-01 20:08:04,471 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:08:48,532 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:09:04,296 WARNING :: Binance ETHUSDT: 50128 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:04,300 WARNING :: Binance BTCUSDT: 47445 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:04,302 WARNING :: Binance BTCUSDT: 47264 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:04,681 WARNING :: Binance BTCUSDT: 42156 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:04,684 WARNING :: Binance BTCUSDT: 40443 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,083 WARNING :: Binance BTCUSDT: 40817 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,087 WARNING :: Binance BTCUSDT: 35736 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,090 WARNING :: Binance BTCUSDT: 34662 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,092 WARNING :: Binance BTCUSDT: 32976 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,094 WARNING :: Binance ETHUSDT: 32762 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,096 WARNING :: Binance ETHUSDT: 31354 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,099 WARNING :: Binance BTCUSDT: 28559 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,462 WARNING :: Binance ETHUSDT: 27418 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,464 WARNING :: Binance BTCUSDT: 27217 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,467 WARNING :: Binance BTCUSDT: 24988 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,473 WARNING :: Binance BTCUSDT: 22835 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,476 WARNING :: Binance ETHUSDT: 21231 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,477 WARNING :: Binance BTCUSDT: 21093 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,841 WARNING :: Binance ETHUSDT: 19512 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,842 WARNING :: Binance ETHUSDT: 17421 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,843 WARNING :: Binance ETHUSDT: 13757 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,843 WARNING :: Binance ETHUSDT: 13757 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:05,843 WARNING :: Binance ETHUSDT: 13757 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:06,226 WARNING :: Binance ETHUSDT: 14140 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:06,235 WARNING :: Binance ETHUSDT: 11968 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:06,240 WARNING :: Binance ETHUSDT: 7811 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:06,241 WARNING :: Binance BTCUSDT: 5942 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:06,242 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:09:09,319 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=BNBUSDT&interval=1m&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:09:09,745 INFO :: Binance: subscribing to: bnbusdt@aggTrade
+2023-01-01 20:09:09,747 INFO :: Binance: subscribing to: bnbusdt@bookTicker
+2023-01-01 20:09:10,256 WARNING :: Binance ETHUSDT: 2346 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:16,151 WARNING :: Binance ETHUSDT: 2137 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:38,622 WARNING :: Binance BTCUSDT: 2219 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:38,624 WARNING :: Binance BTCUSDT: 2221 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:44,059 WARNING :: Binance ETHUSDT: 2053 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:44,061 WARNING :: Binance ETHUSDT: 2056 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:44,757 WARNING :: Binance BTCUSDT: 2174 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:49,093 WARNING :: Binance BTCUSDT: 4778 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:49,096 WARNING :: Binance ETHUSDT: 2495 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:49,103 WARNING :: Binance ETHUSDT: 2503 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:49,104 WARNING :: Binance ETHUSDT: 2504 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:49,106 WARNING :: Binance ETHUSDT: 2506 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:54,318 WARNING :: Binance BTCUSDT: 6081 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:54,319 WARNING :: Binance ETHUSDT: 6019 milliseconds of difference between the current time and the trade time
+2023-01-01 20:09:54,322 WARNING :: Binance BTCUSDT: 3876 milliseconds of difference between the current time and the trade time
+2023-01-01 20:10:09,681 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:10:22,067 WARNING :: Binance ETHUSDT: 3615 milliseconds of difference between the current time and the trade time
+2023-01-01 20:10:24,316 WARNING :: Binance BTCUSDT: 2113 milliseconds of difference between the current time and the trade time
+2023-01-01 20:10:43,747 WARNING :: Binance ETHUSDT: 11291 milliseconds of difference between the current time and the trade time
+2023-01-01 20:10:43,749 WARNING :: Binance ETHUSDT: 11292 milliseconds of difference between the current time and the trade time
+2023-01-01 20:10:43,753 WARNING :: Binance ETHUSDT: 7624 milliseconds of difference between the current time and the trade time
+2023-01-01 20:10:44,719 WARNING :: Binance ETHUSDT: 8575 milliseconds of difference between the current time and the trade time
+2023-01-01 20:10:56,070 WARNING :: Binance ETHUSDT: 15693 milliseconds of difference between the current time and the trade time
+2023-01-01 20:10:56,073 WARNING :: Binance ETHUSDT: 12031 milliseconds of difference between the current time and the trade time
+2023-01-01 20:10:56,074 WARNING :: Binance ETHUSDT: 12032 milliseconds of difference between the current time and the trade time
+2023-01-01 20:10:56,079 WARNING :: Binance ETHUSDT: 5386 milliseconds of difference between the current time and the trade time
+2023-01-01 20:10:56,090 WARNING :: Binance ETHUSDT: 3760 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:37,412 WARNING :: Binance BTCUSDT: 39076 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:37,415 WARNING :: Binance ETHUSDT: 37263 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:37,417 WARNING :: Binance BTCUSDT: 36592 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:37,418 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:11:37,425 WARNING :: Binance ETHUSDT: 35187 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:37,435 WARNING :: Binance ETHUSDT: 34991 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:37,439 WARNING :: Binance ETHUSDT: 31045 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:37,825 WARNING :: Binance ETHUSDT: 21578 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:37,829 WARNING :: Binance BTCUSDT: 19172 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:37,834 WARNING :: Binance ETHUSDT: 12813 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:38,490 WARNING :: Binance ETHUSDT: 12106 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:38,491 WARNING :: Binance BTCUSDT: 11986 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:39,579 WARNING :: Binance ETHUSDT: 11328 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:39,583 WARNING :: Binance BTCUSDT: 7393 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:39,586 WARNING :: Binance ETHUSDT: 7172 milliseconds of difference between the current time and the trade time
+2023-01-01 20:11:39,599 WARNING :: Binance BTCUSDT: 2941 milliseconds of difference between the current time and the trade time
+2023-01-01 20:12:02,858 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:12:31,576 WARNING :: Binance ETHUSDT: 3315 milliseconds of difference between the current time and the trade time
+2023-01-01 20:12:32,478 WARNING :: Binance BTCUSDT: 2032 milliseconds of difference between the current time and the trade time
+2023-01-01 20:12:35,209 WARNING :: Binance ETHUSDT: 2751 milliseconds of difference between the current time and the trade time
+2023-01-01 20:12:35,211 WARNING :: Binance BTCUSDT: 2511 milliseconds of difference between the current time and the trade time
+2023-01-01 20:12:38,159 WARNING :: Binance ETHUSDT: 2052 milliseconds of difference between the current time and the trade time
+2023-01-01 20:12:49,357 ERROR :: Connection to remote host was lost. - goodbye
+2023-01-01 20:12:49,358 ERROR :: Binance connection error: Connection to remote host was lost.
+2023-01-01 20:12:49,358 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x00000232B9A90610>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-01-01 20:12:49,359 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-01-01 20:12:56,821 INFO :: Binance connection opened
+2023-01-01 20:12:56,823 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-01-01 20:12:56,823 INFO :: Binance: subscribing to: ethusdt@bookTicker
+2023-01-01 20:12:56,824 INFO :: Binance: subscribing to: adausdt@bookTicker
+2023-01-01 20:12:56,825 INFO :: Binance: subscribing to: 1000luncbusd@bookTicker
+2023-01-01 20:12:56,826 INFO :: Binance: subscribing to: atomusdt@bookTicker
+2023-01-01 20:12:56,827 INFO :: Binance: subscribing to: bnbusdt@bookTicker
+2023-01-01 20:12:56,828 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2023-01-01 20:12:56,829 INFO :: Binance: subscribing to: ethusdt@aggTrade
+2023-01-01 20:12:56,830 INFO :: Binance: subscribing to: 1000luncbusd@aggTrade
+2023-01-01 20:12:56,831 INFO :: Binance: subscribing to: adausdt@aggTrade
+2023-01-01 20:12:56,832 INFO :: Binance: subscribing to: atomusdt@aggTrade
+2023-01-01 20:12:56,833 INFO :: Binance: subscribing to: bnbusdt@aggTrade
+2023-01-01 20:12:56,834 WARNING :: websocket connected
+2023-01-01 20:12:59,221 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x00000232B9A90610>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-01-01 20:12:59,221 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-01-01 20:13:02,850 INFO :: Binance connection opened
+2023-01-01 20:13:02,851 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-01-01 20:13:02,852 INFO :: Binance: subscribing to: ethusdt@bookTicker
+2023-01-01 20:13:02,853 INFO :: Binance: subscribing to: adausdt@bookTicker
+2023-01-01 20:13:02,854 INFO :: Binance: subscribing to: 1000luncbusd@bookTicker
+2023-01-01 20:13:02,855 INFO :: Binance: subscribing to: atomusdt@bookTicker
+2023-01-01 20:13:02,856 INFO :: Binance: subscribing to: bnbusdt@bookTicker
+2023-01-01 20:13:02,857 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2023-01-01 20:13:02,858 INFO :: Binance: subscribing to: ethusdt@aggTrade
+2023-01-01 20:13:02,859 INFO :: Binance: subscribing to: 1000luncbusd@aggTrade
+2023-01-01 20:13:02,860 INFO :: Binance: subscribing to: adausdt@aggTrade
+2023-01-01 20:13:02,860 INFO :: Binance: subscribing to: atomusdt@aggTrade
+2023-01-01 20:13:02,861 INFO :: Binance: subscribing to: bnbusdt@aggTrade
+2023-01-01 20:13:02,862 WARNING :: websocket connected
+2023-01-01 20:13:05,426 INFO :: Binance missing 3 candles for BNBUSDT 1m (1672591383517 1672591140000)
+2023-01-01 20:13:05,427 INFO :: Getting Binance trade size...
+2023-01-01 20:13:05,492 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:13:33,437 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672591385427&signature=afa74f85b9e7d4d9bc12a0af9494d6469a38bea03f357171a92906ea5fc07f5f HTTP/1.1" 400 79
+2023-01-01 20:13:33,440 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:13:33,441 WARNING :: Binance ETHUSDT: 29137 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:33,441 WARNING :: Binance BTCUSDT: 29100 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:33,442 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:13:33,443 WARNING :: Binance ETHUSDT: 25656 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:33,444 WARNING :: Binance ETHUSDT: 25628 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:33,446 WARNING :: Binance BNBUSDT: 21695 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:33,446 INFO :: Getting Binance trade size...
+2023-01-01 20:13:33,449 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:13:34,600 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672591413446&signature=060a3769f64c9d367037fde42889a81b8ff5e777f972b9b52333ed4b0ccc27f8 HTTP/1.1" 200 None
+2023-01-01 20:13:34,612 INFO :: Binance current USDT balance = 14948.15735029, trade size = 2.44
+2023-01-01 20:13:34,612 INFO :: Short signal on BNBUSDT 1m
+2023-01-01 20:13:34,620 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:13:35,716 DEBUG :: https://testnet.binancefuture.com:443 "POST /fapi/v1/order?symbol=BNBUSDT&side=SELL&quantity=2.44&type=MARKET&timestamp=1672591414613&signature=6006aadd8c1f54121f0af38b8d9dab66223fe7e04f57c3b7e39b4e037b2ce3c0 HTTP/1.1" 200 None
+2023-01-01 20:13:35,725 INFO :: Sell order placed on Binance | Status: new
+2023-01-01 20:13:35,732 WARNING :: Binance ETHUSDT: 23543 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:35,734 WARNING :: Binance ETHUSDT: 23545 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:35,735 WARNING :: Binance BTCUSDT: 23504 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:35,737 WARNING :: Binance ETHUSDT: 23244 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:35,738 WARNING :: Binance BNBUSDT: 22297 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:35,739 WARNING :: Binance BNBUSDT: 22297 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:35,741 WARNING :: Binance BNBUSDT: 22299 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:35,743 WARNING :: Binance ETHUSDT: 21486 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:35,745 WARNING :: Binance ETHUSDT: 21488 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:35,751 WARNING :: Binance BNBUSDT: 18040 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:35,754 WARNING :: Binance ADAUSDT: 17784 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:35,754 INFO :: Binance missing 6 candles for ADAUSDT 1m (1672591397970 1672590960000)
+2023-01-01 20:13:35,755 INFO :: Getting Binance trade size...
+2023-01-01 20:13:35,758 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:13:37,758 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:13:42,103 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/order?timestamp=1672591417750&symbol=BNBUSDT&orderId=366294662&signature=5afc13c1a26a7943cfb7fd8dbf3e6e15385d77c399ab12910489c8331f27702e HTTP/1.1" 200 None
+2023-01-01 20:13:42,111 INFO :: Binance order status: filled
+2023-01-01 20:13:52,088 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672591415755&signature=1b00d576b63b2c3846936135058449ef92456a0100374baf7bd2208cf5fa1d67 HTTP/1.1" 400 79
+2023-01-01 20:13:52,097 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:13:52,099 WARNING :: Binance ATOMUSDT: 34104 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,103 WARNING :: Binance BNBUSDT: 30544 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,107 WARNING :: Binance ETHUSDT: 28078 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,108 WARNING :: Binance ETHUSDT: 28079 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,109 WARNING :: Binance ETHUSDT: 28080 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,110 WARNING :: Binance ETHUSDT: 28081 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,111 WARNING :: Binance ETHUSDT: 28082 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,113 WARNING :: Binance ETHUSDT: 28083 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,114 WARNING :: Binance ETHUSDT: 28085 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,115 WARNING :: Binance ETHUSDT: 28086 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,116 WARNING :: Binance ETHUSDT: 28087 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,117 WARNING :: Binance ETHUSDT: 28088 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,118 WARNING :: Binance ETHUSDT: 28089 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,119 WARNING :: Binance ETHUSDT: 28090 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,120 WARNING :: Binance ETHUSDT: 28091 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,121 WARNING :: Binance ETHUSDT: 28092 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,123 WARNING :: Binance ETHUSDT: 27858 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,125 WARNING :: Binance ETHUSDT: 27847 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,127 WARNING :: Binance BTCUSDT: 27555 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,134 WARNING :: Binance BTCUSDT: 25819 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,136 WARNING :: Binance ETHUSDT: 25697 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,137 WARNING :: Binance ETHUSDT: 21915 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,138 WARNING :: Binance ETHUSDT: 21888 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,139 WARNING :: Binance ETHUSDT: 21889 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,139 WARNING :: Binance BNBUSDT: 20536 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,140 WARNING :: Binance BNBUSDT: 20537 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,140 WARNING :: Binance ETHUSDT: 20267 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,141 WARNING :: Binance ETHUSDT: 20267 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,141 WARNING :: Binance ETHUSDT: 20268 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,141 WARNING :: Binance ETHUSDT: 20268 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,142 WARNING :: Binance ETHUSDT: 20269 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,142 WARNING :: Binance ETHUSDT: 20269 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,143 WARNING :: Binance ETHUSDT: 18652 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,145 WARNING :: Binance BNBUSDT: 18169 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,147 WARNING :: Binance ETHUSDT: 13331 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,147 WARNING :: Binance ETHUSDT: 13331 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,148 WARNING :: Binance ETHUSDT: 13332 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,148 WARNING :: Binance ETHUSDT: 13332 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,148 WARNING :: Binance ETHUSDT: 13332 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,149 WARNING :: Binance ETHUSDT: 13333 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,149 WARNING :: Binance ETHUSDT: 13333 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,149 WARNING :: Binance ETHUSDT: 13333 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,150 WARNING :: Binance ETHUSDT: 13334 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,150 WARNING :: Binance ETHUSDT: 13334 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,151 WARNING :: Binance ETHUSDT: 13335 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,151 WARNING :: Binance BTCUSDT: 13213 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,152 WARNING :: Binance ETHUSDT: 10909 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,153 WARNING :: Binance BNBUSDT: 10723 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,153 WARNING :: Binance BNBUSDT: 10723 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,154 WARNING :: Binance BNBUSDT: 10724 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,154 WARNING :: Binance BNBUSDT: 10712 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,155 WARNING :: Binance BNBUSDT: 10529 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,155 WARNING :: Binance ETHUSDT: 10067 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,156 WARNING :: Binance ETHUSDT: 9717 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,156 WARNING :: Binance BTCUSDT: 9567 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,158 WARNING :: Binance BNBUSDT: 8136 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,160 WARNING :: Binance ETHUSDT: 6047 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,160 WARNING :: Binance BNBUSDT: 4276 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,161 WARNING :: Binance BNBUSDT: 4277 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,162 WARNING :: Binance BNBUSDT: 4278 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,162 WARNING :: Binance BTCUSDT: 3879 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,163 WARNING :: Binance BTCUSDT: 2924 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,164 WARNING :: Binance BNBUSDT: 2664 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:52,165 WARNING :: Binance BNBUSDT: 2665 milliseconds of difference between the current time and the trade time
+2023-01-01 20:13:53,092 INFO :: Getting Binance trade size...
+2023-01-01 20:13:53,100 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:14:03,075 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672591433093&signature=42ba845b833d7ee1a512511dad3c95234cca4c7a75902459fc4ad782840c895d HTTP/1.1" 400 79
+2023-01-01 20:14:03,084 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:14:03,086 WARNING :: Binance ATOMUSDT: 11698 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:03,087 WARNING :: Binance ATOMUSDT: 11699 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:03,089 WARNING :: Binance ADAUSDT: 11727 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:03,089 INFO :: Getting Binance trade size...
+2023-01-01 20:14:03,097 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:14:06,419 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672591443090&signature=194907ce6c71fb9d72cb54b4a5578675341aec11e820e7c13192b59a2e406edb HTTP/1.1" 200 None
+2023-01-01 20:14:06,432 INFO :: Binance current USDT balance = 14948.50899333, trade size = 594.0
+2023-01-01 20:14:06,433 INFO :: Long signal on ADAUSDT 1m
+2023-01-01 20:14:06,441 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:14:10,645 DEBUG :: https://testnet.binancefuture.com:443 "POST /fapi/v1/order?symbol=ADAUSDT&side=BUY&quantity=594.0&type=MARKET&timestamp=1672591446433&signature=9cfcd9e9d860764295b866e94807ffd653862a131af7bae2bc35450c255cfba2 HTTP/1.1" 200 None
+2023-01-01 20:14:10,667 INFO :: Buy order placed on Binance | Status: new
+2023-01-01 20:14:10,670 WARNING :: Binance ATOMUSDT: 19282 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:10,673 WARNING :: Binance ETHUSDT: 18323 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:10,675 WARNING :: Binance BNBUSDT: 17026 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:10,681 WARNING :: Binance ETHUSDT: 12621 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:10,682 WARNING :: Binance ETHUSDT: 12609 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:10,684 WARNING :: Binance BTCUSDT: 12316 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:10,687 WARNING :: Binance BTCUSDT: 10100 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:10,688 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:14:10,690 WARNING :: Binance BTCUSDT: 10066 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:10,703 WARNING :: Binance BNBUSDT: 9160 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:10,704 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:14:10,746 WARNING :: Binance ETHUSDT: 4720 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:10,755 WARNING :: Binance BNBUSDT: 3002 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:10,757 WARNING :: Binance BNBUSDT: 3004 milliseconds of difference between the current time and the trade time
+2023-01-01 20:14:10,798 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:14:12,682 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:14:16,879 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/order?timestamp=1672591452674&symbol=ADAUSDT&orderId=100872893&signature=7bd4dc1b118460fbea2bd9aea7089c5d634f4923de8380407e4a6bbf4ce7e109 HTTP/1.1" 200 None
+2023-01-01 20:14:16,888 INFO :: Binance order status: filled
+2023-01-01 20:15:03,645 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:15:08,351 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:15:14,259 INFO :: Binance New candle for ETHUSDT 15m
+2023-01-01 20:15:22,130 WARNING :: Binance BNBUSDT: 2172 milliseconds of difference between the current time and the trade time
+2023-01-01 20:15:23,634 WARNING :: Binance BNBUSDT: 2280 milliseconds of difference between the current time and the trade time
+2023-01-01 20:15:23,635 WARNING :: Binance BTCUSDT: 2139 milliseconds of difference between the current time and the trade time
+2023-01-01 20:15:33,724 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:16:04,155 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:16:07,101 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:16:07,617 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:16:16,918 WARNING :: Binance ETHUSDT: 2218 milliseconds of difference between the current time and the trade time
+2023-01-01 20:16:16,920 WARNING :: Binance ETHUSDT: 2220 milliseconds of difference between the current time and the trade time
+2023-01-01 20:16:16,921 WARNING :: Binance ETHUSDT: 2221 milliseconds of difference between the current time and the trade time
+2023-01-01 20:16:16,922 WARNING :: Binance ETHUSDT: 2222 milliseconds of difference between the current time and the trade time
+2023-01-01 20:16:16,923 WARNING :: Binance ETHUSDT: 2223 milliseconds of difference between the current time and the trade time
+2023-01-01 20:16:16,925 WARNING :: Binance ETHUSDT: 2224 milliseconds of difference between the current time and the trade time
+2023-01-01 20:16:16,926 WARNING :: Binance ETHUSDT: 2226 milliseconds of difference between the current time and the trade time
+2023-01-01 20:16:21,076 WARNING :: Binance BNBUSDT: 3457 milliseconds of difference between the current time and the trade time
+2023-01-01 20:16:21,078 WARNING :: Binance BNBUSDT: 3459 milliseconds of difference between the current time and the trade time
+2023-01-01 20:16:46,585 WARNING :: Binance ETHUSDT: 2188 milliseconds of difference between the current time and the trade time
+2023-01-01 20:16:46,588 WARNING :: Binance BTCUSDT: 2130 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:07,807 WARNING :: Binance ETHUSDT: 3752 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:11,169 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:17:11,541 WARNING :: Binance BNBUSDT: 2104 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:14,219 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:17:53,914 WARNING :: Binance ETHUSDT: 31504 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,918 WARNING :: Binance BTCUSDT: 29432 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,919 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:17:53,923 WARNING :: Binance ETHUSDT: 25756 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,936 WARNING :: Binance ETHUSDT: 23681 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,937 WARNING :: Binance BNBUSDT: 23413 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,940 WARNING :: Binance BNBUSDT: 23416 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,941 WARNING :: Binance BTCUSDT: 22219 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,943 WARNING :: Binance ETHUSDT: 21631 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,946 WARNING :: Binance ETHUSDT: 21634 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,974 WARNING :: Binance ETHUSDT: 21510 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,981 WARNING :: Binance BNBUSDT: 20228 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,983 WARNING :: Binance BNBUSDT: 20230 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,984 WARNING :: Binance BNBUSDT: 20231 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,985 WARNING :: Binance BNBUSDT: 20232 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,986 WARNING :: Binance BNBUSDT: 20233 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,989 WARNING :: Binance BNBUSDT: 20236 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,991 WARNING :: Binance BNBUSDT: 20238 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,992 WARNING :: Binance BNBUSDT: 20239 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,993 WARNING :: Binance BTCUSDT: 20337 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:53,994 WARNING :: Binance BNBUSDT: 20241 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,024 WARNING :: Binance ETHUSDT: 20008 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,036 WARNING :: Binance ETHUSDT: 17918 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,039 WARNING :: Binance ETHUSDT: 17921 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,053 WARNING :: Binance BNBUSDT: 16628 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,073 WARNING :: Binance BNBUSDT: 14382 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,285 WARNING :: Binance ETHUSDT: 13993 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,287 WARNING :: Binance BNBUSDT: 12458 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,341 WARNING :: Binance BNBUSDT: 12512 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,343 WARNING :: Binance ETHUSDT: 12174 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,345 WARNING :: Binance ETHUSDT: 10228 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,346 WARNING :: Binance ETHUSDT: 10229 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,348 WARNING :: Binance ETHUSDT: 9093 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,348 WARNING :: Binance ETHUSDT: 9094 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,349 WARNING :: Binance ETHUSDT: 9095 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,351 WARNING :: Binance BNBUSDT: 8363 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,352 WARNING :: Binance BNBUSDT: 8364 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,353 WARNING :: Binance BNBUSDT: 8365 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,354 WARNING :: Binance BNBUSDT: 8366 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,377 WARNING :: Binance BNBUSDT: 8389 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,378 WARNING :: Binance BNBUSDT: 8390 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,422 WARNING :: Binance BNBUSDT: 8434 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,424 WARNING :: Binance BNBUSDT: 8435 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,425 WARNING :: Binance BNBUSDT: 8437 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,426 WARNING :: Binance BNBUSDT: 8438 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,427 WARNING :: Binance ADAUSDT: 8318 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,429 WARNING :: Binance BNBUSDT: 8441 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,430 WARNING :: Binance ADAUSDT: 8321 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,432 WARNING :: Binance ATOMUSDT: 8300 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,433 WARNING :: Binance ETHUSDT: 8164 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,436 WARNING :: Binance BTCUSDT: 6943 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,448 WARNING :: Binance ETHUSDT: 4020 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,450 WARNING :: Binance BTCUSDT: 3357 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,453 WARNING :: Binance ETHUSDT: 2399 milliseconds of difference between the current time and the trade time
+2023-01-01 20:17:54,456 WARNING :: Binance ETHUSDT: 2375 milliseconds of difference between the current time and the trade time
+2023-01-01 20:18:05,950 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:18:06,854 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:18:08,313 WARNING :: Binance BTCUSDT: 3202 milliseconds of difference between the current time and the trade time
+2023-01-01 20:18:21,570 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:18:49,734 WARNING :: Binance BNBUSDT: 2119 milliseconds of difference between the current time and the trade time
+2023-01-01 20:18:53,769 WARNING :: Binance BTCUSDT: 5251 milliseconds of difference between the current time and the trade time
+2023-01-01 20:18:53,772 WARNING :: Binance BTCUSDT: 3495 milliseconds of difference between the current time and the trade time
+2023-01-01 20:18:53,773 WARNING :: Binance BTCUSDT: 3496 milliseconds of difference between the current time and the trade time
+2023-01-01 20:18:53,776 WARNING :: Binance BTCUSDT: 3499 milliseconds of difference between the current time and the trade time
+2023-01-01 20:18:53,777 WARNING :: Binance ETHUSDT: 3412 milliseconds of difference between the current time and the trade time
+2023-01-01 20:18:53,779 WARNING :: Binance ETHUSDT: 3049 milliseconds of difference between the current time and the trade time
+2023-01-01 20:18:56,324 WARNING :: Binance ADAUSDT: 3060 milliseconds of difference between the current time and the trade time
+2023-01-01 20:18:56,325 WARNING :: Binance ATOMUSDT: 3038 milliseconds of difference between the current time and the trade time
+2023-01-01 20:18:56,326 WARNING :: Binance BTCUSDT: 2914 milliseconds of difference between the current time and the trade time
+2023-01-01 20:18:56,759 WARNING :: Binance BTCUSDT: 2526 milliseconds of difference between the current time and the trade time
+2023-01-01 20:19:02,251 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:19:09,621 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:19:28,689 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:19:32,670 WARNING :: Binance BTCUSDT: 2054 milliseconds of difference between the current time and the trade time
+2023-01-01 20:20:02,009 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:20:02,522 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:20:09,302 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:20:25,831 WARNING :: Binance BNBUSDT: 2128 milliseconds of difference between the current time and the trade time
+2023-01-01 20:20:56,520 WARNING :: Binance BTCUSDT: 2015 milliseconds of difference between the current time and the trade time
+2023-01-01 20:20:56,522 WARNING :: Binance BNBUSDT: 2086 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:27,584 WARNING :: Binance ETHUSDT: 31110 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:27,586 WARNING :: Binance BNBUSDT: 30040 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:27,586 WARNING :: Binance BNBUSDT: 30041 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:27,587 WARNING :: Binance BNBUSDT: 30042 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:27,588 WARNING :: Binance BNBUSDT: 30043 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:27,590 WARNING :: Binance BNBUSDT: 30045 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:27,593 WARNING :: Binance ETHUSDT: 29535 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:27,597 WARNING :: Binance ETHUSDT: 25970 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,014 WARNING :: Binance ETHUSDT: 26387 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,016 WARNING :: Binance BNBUSDT: 26175 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,017 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:21:28,021 WARNING :: Binance BTCUSDT: 25626 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,021 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:21:28,023 WARNING :: Binance BTCUSDT: 24571 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,025 WARNING :: Binance BNBUSDT: 24389 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,028 WARNING :: Binance ETHUSDT: 23107 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,029 WARNING :: Binance ETHUSDT: 23107 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,030 WARNING :: Binance ETHUSDT: 23108 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,402 WARNING :: Binance ETHUSDT: 23480 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,403 WARNING :: Binance ETHUSDT: 23481 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,403 WARNING :: Binance ETHUSDT: 23481 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,403 WARNING :: Binance ETHUSDT: 23481 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,405 WARNING :: Binance ADAUSDT: 20805 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,405 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:21:28,405 WARNING :: Binance ATOMUSDT: 20783 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,407 WARNING :: Binance ETHUSDT: 20224 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,764 WARNING :: Binance ETHUSDT: 18648 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,766 WARNING :: Binance ETHUSDT: 18650 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,768 WARNING :: Binance BTCUSDT: 18456 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,772 WARNING :: Binance ETHUSDT: 16362 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,774 WARNING :: Binance ETHUSDT: 16364 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:28,776 WARNING :: Binance BTCUSDT: 14493 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:29,155 WARNING :: Binance BNBUSDT: 5292 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:29,157 WARNING :: Binance BNBUSDT: 5294 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:29,159 WARNING :: Binance BNBUSDT: 3551 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:29,159 WARNING :: Binance BNBUSDT: 3551 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:29,161 WARNING :: Binance BNBUSDT: 3553 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:30,424 WARNING :: Binance ETHUSDT: 2086 milliseconds of difference between the current time and the trade time
+2023-01-01 20:21:31,274 WARNING :: Binance BNBUSDT: 2543 milliseconds of difference between the current time and the trade time
+2023-01-01 20:22:04,004 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:22:04,772 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:22:14,079 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x00000232B9A90610>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-01-01 20:22:14,080 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-01-01 20:22:15,928 ERROR :: error from callback <bound method BitmexClient._on_close of <connectors.bitmex.BitmexClient object at 0x00000232BB720190>>: BitmexClient._on_close() takes 2 positional arguments but 4 were given
+2023-01-01 20:22:15,928 ERROR :: Bitmex connection error: BitmexClient._on_close() takes 2 positional arguments but 4 were given
+2023-01-01 20:23:40,482 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:24:07,728 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2023-01-01 20:24:07,822 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:24:09,893 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592047815&signature=fab9a8d458ff9c0f5960a9bbf8e4a08212f75df3b0aba598da364d1bba63ce10 HTTP/1.1" 200 None
+2023-01-01 20:24:09,920 INFO :: Binance Futures Client successfully initialized
+2023-01-01 20:24:09,928 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-01-01 20:24:14,237 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/instrument/active HTTP/1.1" 200 None
+2023-01-01 20:24:14,592 DEBUG :: Starting new HTTPS connection (1): testnet.bitmex.com:443
+2023-01-01 20:24:19,747 INFO :: Binance connection opened
+2023-01-01 20:24:19,757 INFO :: Binance: subscribing to: btcusdt@bookTicker
+2023-01-01 20:24:19,758 WARNING :: websocket connected
+2023-01-01 20:24:21,166 DEBUG :: https://testnet.bitmex.com:443 "GET /api/v1/user/margin?currency=all HTTP/1.1" 400 120
+2023-01-01 20:24:21,176 ERROR :: Error while making GET request to /api/v1/user/margin: {'error': {'message': 'This request has expired - `expires` is in the past. Current time: 1672592059', 'name': 'HTTPError'}} (error code 400)
+2023-01-01 20:24:21,179 INFO :: Bitmex Client successfully initialized
+2023-01-01 20:24:22,003 INFO :: Binance: subscribing to: ethusdt@bookTicker
+2023-01-01 20:24:22,006 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:24:24,443 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=ETHUSDT HTTP/1.1" 200 None
+2023-01-01 20:24:24,453 INFO :: Binance: subscribing to: adausdt@bookTicker
+2023-01-01 20:24:24,460 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:24:26,175 INFO :: Bitmex connection opened
+2023-01-01 20:24:26,177 WARNING :: websocket connected
+2023-01-01 20:24:38,109 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=ADAUSDT HTTP/1.1" 200 None
+2023-01-01 20:24:58,643 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:25:16,849 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=BTCUSDT&interval=1m&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:25:17,212 INFO :: Binance: subscribing to: btcusdt@aggTrade
+2023-01-01 20:25:20,008 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:25:20,079 INFO :: Getting Binance trade size...
+2023-01-01 20:25:20,088 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:25:29,624 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592120080&signature=ef13fb0917cf1de865c3fb484310bb18124c33ba4025d790933e882bd009c39d HTTP/1.1" 400 79
+2023-01-01 20:25:29,631 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:25:29,633 WARNING :: Binance BTCUSDT: 11283 milliseconds of difference between the current time and the trade time
+2023-01-01 20:25:29,634 WARNING :: Binance BTCUSDT: 11284 milliseconds of difference between the current time and the trade time
+2023-01-01 20:25:32,160 INFO :: Getting Binance trade size...
+2023-01-01 20:25:32,168 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:25:34,716 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592132161&signature=2bf986eac954d636af8258928cf879504bd148809079aa0a51287c73ac767636 HTTP/1.1" 200 None
+2023-01-01 20:25:34,735 INFO :: Binance current USDT balance = 14948.44987845, trade size = 0.009
+2023-01-01 20:25:34,736 INFO :: Short signal on BTCUSDT 1m
+2023-01-01 20:25:34,744 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:25:38,587 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=ETHUSDT&interval=15m&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:25:39,385 INFO :: Binance: subscribing to: ethusdt@aggTrade
+2023-01-01 20:25:59,413 DEBUG :: https://testnet.binancefuture.com:443 "POST /fapi/v1/order?symbol=BTCUSDT&side=SELL&quantity=0.009&type=MARKET&timestamp=1672592134737&signature=bc021769e188cf17b38b620e62b51bf4a84c95fb251a49045439bd143ffa63dc HTTP/1.1" 400 79
+2023-01-01 20:25:59,421 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:25:59,422 ERROR :: error from callback <bound method BinanceClient._on_message of <connectors.binance.BinanceClient object at 0x000002296B0AEFD0>>: dictionary changed size during iteration
+2023-01-01 20:25:59,423 ERROR :: Binance connection error: dictionary changed size during iteration
+2023-01-01 20:25:59,431 WARNING :: Binance BTCUSDT: 22052 milliseconds of difference between the current time and the trade time
+2023-01-01 20:25:59,432 INFO :: Getting Binance trade size...
+2023-01-01 20:25:59,439 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:26:00,572 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:26:27,099 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=1000LUNCBUSD&interval=1m&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:26:27,188 INFO :: Binance: subscribing to: 1000luncbusd@aggTrade
+2023-01-01 20:26:27,189 INFO :: Binance: subscribing to: 1000luncbusd@bookTicker
+2023-01-01 20:26:35,588 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592159432&signature=555caa7d0cf036c57879f2fadc530889433558aa64672a00444bf0ba454238ec HTTP/1.1" 400 79
+2023-01-01 20:26:35,597 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:26:35,598 ERROR :: error from callback <bound method BinanceClient._on_message of <connectors.binance.BinanceClient object at 0x000002296B0AEFD0>>: dictionary changed size during iteration
+2023-01-01 20:26:35,598 ERROR :: Binance connection error: dictionary changed size during iteration
+2023-01-01 20:26:35,600 WARNING :: Binance BTCUSDT: 57798 milliseconds of difference between the current time and the trade time
+2023-01-01 20:26:35,604 WARNING :: Binance ETHUSDT: 53520 milliseconds of difference between the current time and the trade time
+2023-01-01 20:26:35,608 WARNING :: Binance BTCUSDT: 51185 milliseconds of difference between the current time and the trade time
+2023-01-01 20:26:35,613 WARNING :: Binance BTCUSDT: 45077 milliseconds of difference between the current time and the trade time
+2023-01-01 20:26:35,613 INFO :: Getting Binance trade size...
+2023-01-01 20:26:35,621 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:26:37,611 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592195614&signature=6ab980ea5e94c88d8e3f37b35db6bfdb1eea6f0e4827c57bb9c7a47d87641490 HTTP/1.1" 200 None
+2023-01-01 20:26:37,623 INFO :: Binance current USDT balance = 14948.44987845, trade size = 0.009
+2023-01-01 20:26:37,625 INFO :: Short signal on BTCUSDT 1m
+2023-01-01 20:26:37,634 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:26:56,268 DEBUG :: https://testnet.binancefuture.com:443 "POST /fapi/v1/order?symbol=BTCUSDT&side=SELL&quantity=0.009&type=MARKET&timestamp=1672592197626&signature=726bfb71ac178e84e132568942f4c2c342a650f658fa2c1b836924df1347bed0 HTTP/1.1" 400 79
+2023-01-01 20:26:56,277 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:26:56,281 WARNING :: Binance ETHUSDT: 61882 milliseconds of difference between the current time and the trade time
+2023-01-01 20:26:56,282 WARNING :: Binance BTCUSDT: 61809 milliseconds of difference between the current time and the trade time
+2023-01-01 20:26:56,283 INFO :: Getting Binance trade size...
+2023-01-01 20:26:56,290 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:27:01,388 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592216283&signature=55c807672efc1f4bead6f22bfbe618d3651bff40da1eda90da6ef4beb3136535 HTTP/1.1" 200 None
+2023-01-01 20:27:01,406 INFO :: Binance current USDT balance = 14948.44987845, trade size = 0.009
+2023-01-01 20:27:01,407 INFO :: Short signal on BTCUSDT 1m
+2023-01-01 20:27:01,414 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:27:05,149 DEBUG :: https://testnet.binancefuture.com:443 "POST /fapi/v1/order?symbol=BTCUSDT&side=SELL&quantity=0.009&type=MARKET&timestamp=1672592221407&signature=266ab3b3e2365de68aa8173f94c748febcfd9400e1d66f218bc18c1d00e83754 HTTP/1.1" 200 None
+2023-01-01 20:27:05,158 INFO :: Sell order placed on Binance | Status: new
+2023-01-01 20:27:05,162 WARNING :: Binance ETHUSDT: 69922 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,163 WARNING :: Binance ETHUSDT: 69916 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,166 WARNING :: Binance BTCUSDT: 68972 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,168 WARNING :: Binance ETHUSDT: 67130 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,170 WARNING :: Binance ETHUSDT: 67132 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,172 WARNING :: Binance ETHUSDT: 67053 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,173 WARNING :: Binance BTCUSDT: 65506 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,175 WARNING :: Binance ETHUSDT: 64943 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,178 WARNING :: Binance ETHUSDT: 64946 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,180 WARNING :: Binance ETHUSDT: 63288 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,181 WARNING :: Binance ETHUSDT: 63282 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,184 WARNING :: Binance ETHUSDT: 61549 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,185 WARNING :: Binance ETHUSDT: 61550 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,186 WARNING :: Binance ETHUSDT: 61551 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,190 WARNING :: Binance ETHUSDT: 59134 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,192 WARNING :: Binance ETHUSDT: 59136 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,194 WARNING :: Binance ETHUSDT: 55810 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,198 WARNING :: Binance BTCUSDT: 52803 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,199 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:27:05,202 WARNING :: Binance ETHUSDT: 50865 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,204 WARNING :: Binance ETHUSDT: 48919 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,206 WARNING :: Binance ETHUSDT: 48002 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,209 WARNING :: Binance BTCUSDT: 46645 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,213 WARNING :: Binance ETHUSDT: 40721 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,218 WARNING :: Binance ETHUSDT: 35003 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,219 WARNING :: Binance ETHUSDT: 35005 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,220 WARNING :: Binance ETHUSDT: 35006 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,223 WARNING :: Binance ETHUSDT: 34849 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,226 WARNING :: Binance ETHUSDT: 32729 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,228 WARNING :: Binance BTCUSDT: 30928 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,230 WARNING :: Binance BTCUSDT: 30929 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,232 WARNING :: Binance ETHUSDT: 25762 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,234 WARNING :: Binance ETHUSDT: 18416 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,235 WARNING :: Binance ETHUSDT: 14779 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,237 WARNING :: Binance ETHUSDT: 10937 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,238 WARNING :: Binance ETHUSDT: 8791 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,239 WARNING :: Binance ETHUSDT: 7051 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,240 WARNING :: Binance ETHUSDT: 5131 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,240 WARNING :: Binance ETHUSDT: 5129 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,241 WARNING :: Binance ETHUSDT: 3490 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:05,242 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:27:07,175 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:27:13,854 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/order?timestamp=1672592227168&symbol=BTCUSDT&orderId=3271259450&signature=dcbd11f6ead202174bc4010d17836ea33debabcc513276756ebacc0945308541 HTTP/1.1" 200 None
+2023-01-01 20:27:13,862 INFO :: Binance order status: filled
+2023-01-01 20:27:51,022 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:27:54,864 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=ADAUSDT&interval=1m&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:27:55,183 INFO :: Binance: subscribing to: adausdt@aggTrade
+2023-01-01 20:27:57,759 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:27:58,123 WARNING :: Binance ETHUSDT: 2114 milliseconds of difference between the current time and the trade time
+2023-01-01 20:27:58,125 WARNING :: Binance ETHUSDT: 2112 milliseconds of difference between the current time and the trade time
+2023-01-01 20:28:01,017 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=1000LUNCBUSD&interval=4h&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:28:01,584 WARNING :: Binance ETHUSDT: 2672 milliseconds of difference between the current time and the trade time
+2023-01-01 20:28:02,823 WARNING :: Binance ETHUSDT: 2870 milliseconds of difference between the current time and the trade time
+2023-01-01 20:28:05,318 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:28:11,124 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:28:19,397 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:28:21,180 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=ATOMUSDT&interval=30m&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:28:21,783 INFO :: Binance: subscribing to: atomusdt@aggTrade
+2023-01-01 20:28:21,784 INFO :: Binance: subscribing to: atomusdt@bookTicker
+2023-01-01 20:28:32,609 WARNING :: Binance BTCUSDT: 2185 milliseconds of difference between the current time and the trade time
+2023-01-01 20:28:32,610 WARNING :: Binance BTCUSDT: 2186 milliseconds of difference between the current time and the trade time
+2023-01-01 20:28:37,850 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:28:48,096 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=BNBUSDT&interval=1m&limit=1000 HTTP/1.1" 200 None
+2023-01-01 20:28:48,432 INFO :: Binance: subscribing to: bnbusdt@aggTrade
+2023-01-01 20:28:48,433 INFO :: Binance: subscribing to: bnbusdt@bookTicker
+2023-01-01 20:28:51,378 WARNING :: Binance ETHUSDT: 3230 milliseconds of difference between the current time and the trade time
+2023-01-01 20:28:54,150 WARNING :: Binance ADAUSDT: 3171 milliseconds of difference between the current time and the trade time
+2023-01-01 20:28:54,152 WARNING :: Binance ATOMUSDT: 3146 milliseconds of difference between the current time and the trade time
+2023-01-01 20:28:54,155 WARNING :: Binance BNBUSDT: 2545 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:01,949 WARNING :: Binance ETHUSDT: 9644 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:01,951 WARNING :: Binance BNBUSDT: 8471 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:01,952 INFO :: Getting Binance trade size...
+2023-01-01 20:29:01,959 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:29:09,896 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592341952&signature=de11deafaaeb8206a1439459c50af673dfed4c7371b846282962d5ce94739930 HTTP/1.1" 400 79
+2023-01-01 20:29:09,904 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:29:09,906 WARNING :: Binance BNBUSDT: 16426 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:09,907 INFO :: Getting Binance trade size...
+2023-01-01 20:29:09,914 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:29:33,050 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592349907&signature=31a2e3300c8bf199b7e843f0c745809b8b0e6bd800aff44f5df147d4725632e9 HTTP/1.1" 400 79
+2023-01-01 20:29:33,058 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:29:33,062 WARNING :: Binance ETHUSDT: 36635 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,063 WARNING :: Binance ETHUSDT: 36636 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,065 WARNING :: Binance ETHUSDT: 36638 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,069 WARNING :: Binance ETHUSDT: 35018 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,071 WARNING :: Binance BTCUSDT: 34163 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,074 WARNING :: Binance ETHUSDT: 32933 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,075 WARNING :: Binance BNBUSDT: 31516 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,075 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:29:33,077 WARNING :: Binance BNBUSDT: 31518 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,080 WARNING :: Binance BNBUSDT: 29453 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,081 WARNING :: Binance BNBUSDT: 29454 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,082 WARNING :: Binance BNBUSDT: 29455 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,085 WARNING :: Binance ETHUSDT: 28804 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,087 WARNING :: Binance BTCUSDT: 28475 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,087 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:29:33,089 WARNING :: Binance BNBUSDT: 27299 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,092 WARNING :: Binance ETHUSDT: 25987 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,097 WARNING :: Binance BNBUSDT: 24464 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,099 WARNING :: Binance ETHUSDT: 24588 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,100 WARNING :: Binance BTCUSDT: 24550 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,101 WARNING :: Binance BNBUSDT: 24464 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,104 WARNING :: Binance BNBUSDT: 21490 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,104 WARNING :: Binance BNBUSDT: 21490 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,105 WARNING :: Binance ETHUSDT: 20911 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,106 WARNING :: Binance ATOMUSDT: 19745 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,108 WARNING :: Binance BNBUSDT: 19333 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,108 WARNING :: Binance BTCUSDT: 17773 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,110 WARNING :: Binance BNBUSDT: 16850 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,111 WARNING :: Binance ETHUSDT: 14687 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,113 WARNING :: Binance ETHUSDT: 13136 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,113 WARNING :: Binance BNBUSDT: 9453 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,114 WARNING :: Binance BNBUSDT: 9454 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,114 WARNING :: Binance BNBUSDT: 9454 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,115 WARNING :: Binance ADAUSDT: 9218 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,115 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:29:33,115 WARNING :: Binance ADAUSDT: 9218 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,116 WARNING :: Binance ATOMUSDT: 9202 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,116 WARNING :: Binance ADAUSDT: 9219 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:33,116 INFO :: Getting Binance trade size...
+2023-01-01 20:29:33,119 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:29:44,735 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592373116&signature=6e09be23a5360d35493dfd82856d3384351b01e2d870856edccc413e0158fe5a HTTP/1.1" 400 79
+2023-01-01 20:29:44,744 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:29:44,745 WARNING :: Binance ATOMUSDT: 20831 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:44,749 WARNING :: Binance BNBUSDT: 19320 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:44,750 WARNING :: Binance BTCUSDT: 19100 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:44,751 WARNING :: Binance BTCUSDT: 19101 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:44,754 WARNING :: Binance BNBUSDT: 18907 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:44,759 WARNING :: Binance ETHUSDT: 16260 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:44,760 WARNING :: Binance ETHUSDT: 16256 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:44,772 WARNING :: Binance ETHUSDT: 3775 milliseconds of difference between the current time and the trade time
+2023-01-01 20:29:58,475 INFO :: Getting Binance trade size...
+2023-01-01 20:29:58,483 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:30:30,101 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592398476&signature=da239a3e82d5baf9ca71d9fca2c897dcc128c38b5bbef4c84cdbab88a7e327c6 HTTP/1.1" 400 79
+2023-01-01 20:30:30,109 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:30:30,112 WARNING :: Binance ADAUSDT: 33353 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,113 WARNING :: Binance ATOMUSDT: 33330 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,115 WARNING :: Binance BTCUSDT: 33155 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,119 WARNING :: Binance BTCUSDT: 31660 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,120 WARNING :: Binance BTCUSDT: 31568 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,122 WARNING :: Binance BNBUSDT: 30971 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,123 WARNING :: Binance BNBUSDT: 30970 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,129 WARNING :: Binance ETHUSDT: 28234 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,130 INFO :: Binance New candle for ETHUSDT 15m
+2023-01-01 20:30:30,142 WARNING :: Binance BTCUSDT: 25881 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,142 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:30:30,143 WARNING :: Binance ETHUSDT: 25845 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,144 WARNING :: Binance BNBUSDT: 25330 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,144 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:30:30,145 WARNING :: Binance ETHUSDT: 24782 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,147 WARNING :: Binance ETHUSDT: 22030 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,148 WARNING :: Binance BNBUSDT: 19530 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,152 WARNING :: Binance ETHUSDT: 17901 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,152 WARNING :: Binance ETHUSDT: 17888 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,153 WARNING :: Binance ETHUSDT: 17889 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,153 WARNING :: Binance ETHUSDT: 17889 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,154 WARNING :: Binance ETHUSDT: 17890 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,154 WARNING :: Binance ETHUSDT: 17876 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,155 WARNING :: Binance BTCUSDT: 18005 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,155 WARNING :: Binance ETHUSDT: 17877 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,157 WARNING :: Binance BNBUSDT: 16310 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,157 WARNING :: Binance BTCUSDT: 15781 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,158 WARNING :: Binance ETHUSDT: 14600 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,159 WARNING :: Binance BNBUSDT: 14522 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,160 WARNING :: Binance ETHUSDT: 13840 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,160 WARNING :: Binance BTCUSDT: 13568 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,161 WARNING :: Binance ETHUSDT: 11766 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,162 WARNING :: Binance ETHUSDT: 11767 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,162 WARNING :: Binance BNBUSDT: 10553 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,163 WARNING :: Binance ETHUSDT: 10355 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,164 WARNING :: Binance BNBUSDT: 8327 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,164 WARNING :: Binance BNBUSDT: 8327 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,165 WARNING :: Binance BNBUSDT: 8328 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,165 WARNING :: Binance BNBUSDT: 8328 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,167 WARNING :: Binance ETHUSDT: 6074 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,167 WARNING :: Binance ETHUSDT: 6074 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,168 WARNING :: Binance ETHUSDT: 6061 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,168 WARNING :: Binance ETHUSDT: 6061 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,168 WARNING :: Binance ETHUSDT: 6061 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,169 WARNING :: Binance ETHUSDT: 5971 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,169 WARNING :: Binance ETHUSDT: 5971 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,170 WARNING :: Binance BTCUSDT: 5032 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,170 WARNING :: Binance BNBUSDT: 4717 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,171 WARNING :: Binance BNBUSDT: 4718 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,172 WARNING :: Binance ETHUSDT: 3794 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,172 WARNING :: Binance ETHUSDT: 3167 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:30,173 WARNING :: Binance BNBUSDT: 2565 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:31,984 WARNING :: Binance BNBUSDT: 2146 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:31,988 INFO :: Binance New candle for ATOMUSDT 30m
+2023-01-01 20:30:32,021 WARNING :: Binance ETHUSDT: 2015 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:32,023 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:30:45,853 WARNING :: Binance BNBUSDT: 2100 milliseconds of difference between the current time and the trade time
+2023-01-01 20:30:50,420 WARNING :: Binance ETHUSDT: 2010 milliseconds of difference between the current time and the trade time
+2023-01-01 20:31:05,132 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:31:05,134 INFO :: Getting Binance trade size...
+2023-01-01 20:31:05,141 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:31:17,204 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592465134&signature=d1ba689a02fbbc96c79a4bccce428a7da1c66d7cfabfedace2442335ac0c9d73 HTTP/1.1" 400 79
+2023-01-01 20:31:17,213 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:31:17,215 WARNING :: Binance ADAUSDT: 13802 milliseconds of difference between the current time and the trade time
+2023-01-01 20:31:17,216 INFO :: Getting Binance trade size...
+2023-01-01 20:31:17,223 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:31:30,279 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592477216&signature=41e9a1fb80515e8c0a47eb3e371f8594a7862df910fbfa48195a3c0ca61313de HTTP/1.1" 400 79
+2023-01-01 20:31:30,287 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:31:30,288 WARNING :: Binance ATOMUSDT: 26845 milliseconds of difference between the current time and the trade time
+2023-01-01 20:31:30,291 WARNING :: Binance BNBUSDT: 24468 milliseconds of difference between the current time and the trade time
+2023-01-01 20:31:30,292 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:31:30,293 WARNING :: Binance BNBUSDT: 24470 milliseconds of difference between the current time and the trade time
+2023-01-01 20:31:30,295 WARNING :: Binance BTCUSDT: 23844 milliseconds of difference between the current time and the trade time
+2023-01-01 20:31:30,295 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:31:30,298 WARNING :: Binance BTCUSDT: 23846 milliseconds of difference between the current time and the trade time
+2023-01-01 20:31:30,299 WARNING :: Binance BNBUSDT: 22804 milliseconds of difference between the current time and the trade time
+2023-01-01 20:31:30,301 WARNING :: Binance BNBUSDT: 22806 milliseconds of difference between the current time and the trade time
+2023-01-01 20:31:30,301 INFO :: Getting Binance trade size...
+2023-01-01 20:31:30,308 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:32:01,080 ERROR :: Connection error while making GET request to /fapi/v1/account: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-01-01 20:32:01,081 WARNING :: Binance BNBUSDT: 53425 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:01,082 INFO :: Getting Binance trade size...
+2023-01-01 20:32:01,088 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:32:07,277 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592521082&signature=bbe9ea1eee6dd78d3fcef0ba57221eec8c834390b12af84a13126e6df3f473e2 HTTP/1.1" 200 None
+2023-01-01 20:32:07,290 INFO :: Binance current USDT balance = 14948.39004285, trade size = 2.44
+2023-01-01 20:32:07,291 INFO :: Short signal on BNBUSDT 1m
+2023-01-01 20:32:07,299 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:32:24,143 DEBUG :: https://testnet.binancefuture.com:443 "POST /fapi/v1/order?symbol=BNBUSDT&side=SELL&quantity=2.44&type=MARKET&timestamp=1672592527292&signature=26bee8f8e0467982682a4b3cc330914460d489a34274f6a540004bd60e9dab4e HTTP/1.1" 400 79
+2023-01-01 20:32:24,151 ERROR :: Error while making POST request to /fapi/v1/order: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:32:24,152 WARNING :: Binance BNBUSDT: 76496 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:24,153 INFO :: Getting Binance trade size...
+2023-01-01 20:32:24,160 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:32:27,498 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592544153&signature=a9b67ab6cac5e83c93b85c7f9246c1a3f015416809b92390e1da525f63eec33d HTTP/1.1" 200 None
+2023-01-01 20:32:27,513 INFO :: Binance current USDT balance = 14948.39004285, trade size = 2.44
+2023-01-01 20:32:27,514 INFO :: Short signal on BNBUSDT 1m
+2023-01-01 20:32:27,521 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:32:30,327 DEBUG :: https://testnet.binancefuture.com:443 "POST /fapi/v1/order?symbol=BNBUSDT&side=SELL&quantity=2.44&type=MARKET&timestamp=1672592547514&signature=4c76371c3e9e1eb6e0a9604b9a18912439f4c8975fb0345c6f8f8d2fc633afc7 HTTP/1.1" 200 None
+2023-01-01 20:32:30,335 INFO :: Sell order placed on Binance | Status: new
+2023-01-01 20:32:30,339 WARNING :: Binance BNBUSDT: 82683 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,342 WARNING :: Binance BTCUSDT: 82146 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,347 WARNING :: Binance ETHUSDT: 80033 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,349 WARNING :: Binance ETHUSDT: 78179 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,351 WARNING :: Binance ETHUSDT: 78166 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,353 WARNING :: Binance BTCUSDT: 77732 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,355 WARNING :: Binance BNBUSDT: 77019 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,357 WARNING :: Binance BNBUSDT: 77016 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,359 WARNING :: Binance BNBUSDT: 76517 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,360 WARNING :: Binance BNBUSDT: 76518 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,361 WARNING :: Binance BNBUSDT: 76519 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,362 WARNING :: Binance BNBUSDT: 76520 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,364 WARNING :: Binance BNBUSDT: 76522 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,369 WARNING :: Binance ETHUSDT: 74049 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,370 WARNING :: Binance ETHUSDT: 72970 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,373 WARNING :: Binance ETHUSDT: 68343 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,374 WARNING :: Binance BTCUSDT: 68187 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,374 WARNING :: Binance BNBUSDT: 66787 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,375 WARNING :: Binance ETHUSDT: 66425 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,376 WARNING :: Binance ETHUSDT: 66255 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,376 WARNING :: Binance BNBUSDT: 65549 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,377 WARNING :: Binance BNBUSDT: 65550 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,379 WARNING :: Binance ETHUSDT: 64150 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,379 WARNING :: Binance ETHUSDT: 64140 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,380 WARNING :: Binance ETHUSDT: 64119 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,381 WARNING :: Binance BNBUSDT: 62832 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,383 WARNING :: Binance BNBUSDT: 60740 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,384 WARNING :: Binance BTCUSDT: 59806 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,384 WARNING :: Binance ETHUSDT: 59902 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,385 WARNING :: Binance BTCUSDT: 59806 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,385 WARNING :: Binance BTCUSDT: 57236 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,386 WARNING :: Binance BNBUSDT: 56593 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,387 WARNING :: Binance BTCUSDT: 54172 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,388 WARNING :: Binance ADAUSDT: 53747 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:30,388 INFO :: Getting Binance trade size...
+2023-01-01 20:32:30,391 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:32:32,357 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:32:36,229 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/order?timestamp=1672592552349&symbol=BNBUSDT&orderId=366299237&signature=928ec93bb345771f881e388fabbaa315e078146d176169e619c855cbeb923cb2 HTTP/1.1" 200 None
+2023-01-01 20:32:36,236 INFO :: Binance order status: filled
+2023-01-01 20:32:39,429 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592550388&signature=2c6664e49c7ec5b941f58f3eab4651e30bb7a25a2904a02a832b8ea9cba93d78 HTTP/1.1" 400 79
+2023-01-01 20:32:39,437 ERROR :: Error while making GET request to /fapi/v1/account: {'code': -1021, 'msg': 'Timestamp for this request is outside of the recvWindow.'} (error code 400)
+2023-01-01 20:32:39,439 WARNING :: Binance ATOMUSDT: 62773 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:39,441 WARNING :: Binance ADAUSDT: 62800 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:39,442 INFO :: Getting Binance trade size...
+2023-01-01 20:32:39,449 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:32:43,426 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1672592559442&signature=e2621e625eb0229c23cb3b68e9c6419a1f661e83722967ebdcfc370c3a900ca5 HTTP/1.1" 200 None
+2023-01-01 20:32:43,439 INFO :: Binance current USDT balance = 14948.15104388, trade size = 594.0
+2023-01-01 20:32:43,440 INFO :: Long signal on ADAUSDT 1m
+2023-01-01 20:32:43,448 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:32:47,128 DEBUG :: https://testnet.binancefuture.com:443 "POST /fapi/v1/order?symbol=ADAUSDT&side=BUY&quantity=594.0&type=MARKET&timestamp=1672592563440&signature=83bdc2abba1eef7d25d6a329ef6c2a6da03d23cf41fafd39e80a43b75c8eed46 HTTP/1.1" 200 None
+2023-01-01 20:32:47,135 INFO :: Buy order placed on Binance | Status: new
+2023-01-01 20:32:47,138 WARNING :: Binance ATOMUSDT: 70472 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,140 WARNING :: Binance BTCUSDT: 69822 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,144 WARNING :: Binance ETHUSDT: 68882 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,146 WARNING :: Binance ETHUSDT: 66771 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,147 WARNING :: Binance ETHUSDT: 66772 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,149 WARNING :: Binance ETHUSDT: 66774 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,150 WARNING :: Binance BNBUSDT: 65401 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,152 WARNING :: Binance BNBUSDT: 65403 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,155 WARNING :: Binance BNBUSDT: 65406 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,156 WARNING :: Binance BNBUSDT: 65303 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,158 WARNING :: Binance BNBUSDT: 65304 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,161 WARNING :: Binance ETHUSDT: 65079 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,164 WARNING :: Binance BTCUSDT: 64823 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,167 WARNING :: Binance ETHUSDT: 62938 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,171 WARNING :: Binance BTCUSDT: 60903 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,172 WARNING :: Binance ETHUSDT: 60877 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,177 WARNING :: Binance BTCUSDT: 58683 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,179 WARNING :: Binance BTCUSDT: 58685 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,181 WARNING :: Binance BTCUSDT: 56960 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,183 WARNING :: Binance ETHUSDT: 56732 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,187 WARNING :: Binance ETHUSDT: 53114 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,188 WARNING :: Binance ETHUSDT: 53115 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,190 WARNING :: Binance BTCUSDT: 52894 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,192 WARNING :: Binance ETHUSDT: 52209 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,193 WARNING :: Binance BNBUSDT: 51509 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,194 WARNING :: Binance BNBUSDT: 51510 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,198 WARNING :: Binance BNBUSDT: 49515 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,199 WARNING :: Binance BNBUSDT: 49435 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,200 WARNING :: Binance ETHUSDT: 49290 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,201 WARNING :: Binance BTCUSDT: 49277 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,201 WARNING :: Binance ETHUSDT: 49035 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,203 WARNING :: Binance ETHUSDT: 44851 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,204 WARNING :: Binance BTCUSDT: 44670 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,204 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:32:47,204 WARNING :: Binance BTCUSDT: 44670 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,205 WARNING :: Binance ETHUSDT: 43223 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,206 WARNING :: Binance ETHUSDT: 43224 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,206 WARNING :: Binance BNBUSDT: 41454 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,206 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:32:47,207 WARNING :: Binance BNBUSDT: 41455 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,207 WARNING :: Binance BNBUSDT: 41455 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,208 WARNING :: Binance BNBUSDT: 39383 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,208 WARNING :: Binance BNBUSDT: 39383 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,209 WARNING :: Binance BNBUSDT: 39384 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,209 WARNING :: Binance BNBUSDT: 39384 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,210 WARNING :: Binance ETHUSDT: 39034 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,210 WARNING :: Binance BTCUSDT: 38943 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,211 WARNING :: Binance ADAUSDT: 37317 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,211 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:32:47,211 WARNING :: Binance ADAUSDT: 37317 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,212 WARNING :: Binance ATOMUSDT: 37298 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,539 WARNING :: Binance ETHUSDT: 37310 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,542 WARNING :: Binance BTCUSDT: 37115 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,543 WARNING :: Binance BTCUSDT: 37116 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,545 WARNING :: Binance BTCUSDT: 37118 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,546 WARNING :: Binance BTCUSDT: 37040 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,548 WARNING :: Binance BTCUSDT: 35395 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,554 WARNING :: Binance ETHUSDT: 33138 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,556 WARNING :: Binance ETHUSDT: 32600 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,583 WARNING :: Binance BNBUSDT: 31594 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,595 WARNING :: Binance BNBUSDT: 31605 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,597 WARNING :: Binance BTCUSDT: 27804 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,600 WARNING :: Binance BNBUSDT: 26051 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,601 WARNING :: Binance BNBUSDT: 26053 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:47,602 WARNING :: Binance BNBUSDT: 26054 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,025 WARNING :: Binance BTCUSDT: 25773 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,027 WARNING :: Binance BTCUSDT: 25775 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,029 WARNING :: Binance BTCUSDT: 25439 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,030 WARNING :: Binance BNBUSDT: 24401 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,032 WARNING :: Binance BNBUSDT: 24402 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,033 WARNING :: Binance BNBUSDT: 24404 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,034 WARNING :: Binance BNBUSDT: 24405 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,036 WARNING :: Binance ETHUSDT: 23670 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,038 WARNING :: Binance ETHUSDT: 23672 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,051 WARNING :: Binance ETHUSDT: 22007 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,053 WARNING :: Binance BTCUSDT: 21834 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,094 WARNING :: Binance BTCUSDT: 19660 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,407 WARNING :: Binance BNBUSDT: 19916 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,408 WARNING :: Binance BNBUSDT: 18926 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,409 WARNING :: Binance BNBUSDT: 18927 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,409 WARNING :: Binance BNBUSDT: 18927 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,410 WARNING :: Binance ETHUSDT: 18173 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,410 WARNING :: Binance ETHUSDT: 18173 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,411 WARNING :: Binance ETHUSDT: 18174 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:48,425 WARNING :: Binance ETHUSDT: 18175 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:49,161 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2023-01-01 20:32:51,488 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/order?timestamp=1672592569153&symbol=ADAUSDT&orderId=100872981&signature=1cef1a45ef4d725d99b2bc048b80000d8995177dd388da37f6c69b85ef5cd630 HTTP/1.1" 200 None
+2023-01-01 20:32:51,496 INFO :: Binance order status: filled
+2023-01-01 20:32:53,152 WARNING :: Binance BNBUSDT: 21534 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,155 WARNING :: Binance ETHUSDT: 20903 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,157 WARNING :: Binance BTCUSDT: 20778 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,162 WARNING :: Binance ETHUSDT: 18531 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,164 WARNING :: Binance ETHUSDT: 17825 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,169 WARNING :: Binance BNBUSDT: 17262 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,173 WARNING :: Binance ETHUSDT: 17087 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,193 WARNING :: Binance BNBUSDT: 15543 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,195 WARNING :: Binance BNBUSDT: 15545 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,197 WARNING :: Binance BTCUSDT: 14743 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,199 WARNING :: Binance BTCUSDT: 14745 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,219 WARNING :: Binance ETHUSDT: 13703 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,221 WARNING :: Binance ETHUSDT: 13214 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,222 WARNING :: Binance ETHUSDT: 13215 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,526 WARNING :: Binance BNBUSDT: 12037 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,527 WARNING :: Binance BNBUSDT: 12038 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,528 WARNING :: Binance ETHUSDT: 12104 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,529 WARNING :: Binance BNBUSDT: 12040 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,531 WARNING :: Binance ETHUSDT: 11542 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,554 WARNING :: Binance ETHUSDT: 11120 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,555 WARNING :: Binance BTCUSDT: 11061 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,557 WARNING :: Binance ATOMUSDT: 10236 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,559 WARNING :: Binance ADAUSDT: 10256 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,561 WARNING :: Binance ATOMUSDT: 10239 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,565 WARNING :: Binance ADAUSDT: 8271 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,907 WARNING :: Binance BTCUSDT: 7528 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,910 WARNING :: Binance BTCUSDT: 5283 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,912 WARNING :: Binance BTCUSDT: 5285 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,914 WARNING :: Binance BNBUSDT: 3869 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,915 WARNING :: Binance BNBUSDT: 3870 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,927 WARNING :: Binance BTCUSDT: 3619 milliseconds of difference between the current time and the trade time
+2023-01-01 20:32:53,929 WARNING :: Binance BTCUSDT: 3621 milliseconds of difference between the current time and the trade time
+2023-01-01 20:33:06,154 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:33:18,020 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:33:18,395 WARNING :: Binance ADAUSDT: 2094 milliseconds of difference between the current time and the trade time
+2023-01-01 20:33:18,397 WARNING :: Binance ATOMUSDT: 2074 milliseconds of difference between the current time and the trade time
+2023-01-01 20:33:25,972 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:34:10,471 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:34:18,988 WARNING :: Binance ETHUSDT: 8959 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:18,991 WARNING :: Binance ETHUSDT: 6881 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:18,993 WARNING :: Binance ETHUSDT: 4200 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:50,432 WARNING :: Binance BTCUSDT: 30099 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:50,434 WARNING :: Binance ADAUSDT: 27597 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:50,435 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:34:50,437 WARNING :: Binance ATOMUSDT: 27580 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:50,438 WARNING :: Binance ADAUSDT: 27601 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:50,439 WARNING :: Binance ATOMUSDT: 27582 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:51,525 WARNING :: Binance BTCUSDT: 27257 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:51,949 WARNING :: Binance ETHUSDT: 23810 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:51,951 WARNING :: Binance BTCUSDT: 23766 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:51,955 WARNING :: Binance ETHUSDT: 21699 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:51,956 WARNING :: Binance BTCUSDT: 21556 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:51,957 WARNING :: Binance BNBUSDT: 20301 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:51,958 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:34:53,685 WARNING :: Binance BNBUSDT: 22029 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:53,688 WARNING :: Binance BNBUSDT: 21430 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:53,691 WARNING :: Binance ETHUSDT: 19299 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:53,692 WARNING :: Binance BNBUSDT: 17796 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:53,693 WARNING :: Binance BNBUSDT: 17797 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:53,695 WARNING :: Binance BNBUSDT: 17799 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:53,707 WARNING :: Binance BNBUSDT: 16045 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:53,709 WARNING :: Binance BNBUSDT: 16047 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:55,318 WARNING :: Binance BNBUSDT: 17656 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:58,681 WARNING :: Binance BNBUSDT: 15135 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:58,684 WARNING :: Binance BNBUSDT: 13208 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:58,685 WARNING :: Binance BNBUSDT: 13209 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:58,686 WARNING :: Binance BNBUSDT: 13210 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:59,049 WARNING :: Binance ETHUSDT: 12699 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:59,053 WARNING :: Binance ETHUSDT: 9675 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:59,066 WARNING :: Binance BTCUSDT: 7662 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:59,071 WARNING :: Binance ETHUSDT: 6958 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:59,072 WARNING :: Binance BTCUSDT: 6837 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:59,098 WARNING :: Binance ETHUSDT: 4710 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:59,446 WARNING :: Binance ATOMUSDT: 3186 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:59,448 WARNING :: Binance BTCUSDT: 3308 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:59,449 WARNING :: Binance ADAUSDT: 3213 milliseconds of difference between the current time and the trade time
+2023-01-01 20:34:59,450 WARNING :: Binance ATOMUSDT: 3190 milliseconds of difference between the current time and the trade time
+2023-01-01 20:35:05,131 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:35:05,510 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:35:31,403 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:35:33,717 WARNING :: Binance BNBUSDT: 2085 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:02,148 WARNING :: Binance ETHUSDT: 4216 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:02,152 WARNING :: Binance BNBUSDT: 3994 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:02,154 WARNING :: Binance ETHUSDT: 4094 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:02,155 WARNING :: Binance BNBUSDT: 3997 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:03,750 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:36:04,740 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:36:11,270 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:36:14,468 WARNING :: Binance ETHUSDT: 2409 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:16,175 WARNING :: Binance ETHUSDT: 2041 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:18,471 WARNING :: Binance BNBUSDT: 2767 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:18,472 WARNING :: Binance BNBUSDT: 2768 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:18,474 WARNING :: Binance BNBUSDT: 2770 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:18,475 WARNING :: Binance BNBUSDT: 2771 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:20,429 WARNING :: Binance BNBUSDT: 4725 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:20,433 WARNING :: Binance ETHUSDT: 4227 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:21,583 WARNING :: Binance BNBUSDT: 2159 milliseconds of difference between the current time and the trade time
+2023-01-01 20:36:34,365 WARNING :: Binance ETHUSDT: 2055 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:04,515 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:37:10,892 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:37:29,469 WARNING :: Binance BNBUSDT: 14014 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:29,470 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:37:29,471 WARNING :: Binance BNBUSDT: 14016 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:29,473 WARNING :: Binance BTCUSDT: 14099 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:29,475 WARNING :: Binance BNBUSDT: 14019 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:29,484 WARNING :: Binance BNBUSDT: 11837 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:29,828 WARNING :: Binance ETHUSDT: 11427 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:29,830 WARNING :: Binance ETHUSDT: 11429 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:29,843 WARNING :: Binance ETHUSDT: 7822 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:29,930 WARNING :: Binance BNBUSDT: 6273 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:29,932 WARNING :: Binance BNBUSDT: 6275 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:29,934 WARNING :: Binance ETHUSDT: 5846 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:30,354 WARNING :: Binance ETHUSDT: 5362 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:30,355 WARNING :: Binance ETHUSDT: 2142 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:47,222 WARNING :: Binance ATOMUSDT: 4820 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:47,224 WARNING :: Binance ADAUSDT: 4847 milliseconds of difference between the current time and the trade time
+2023-01-01 20:37:47,225 WARNING :: Binance ATOMUSDT: 4823 milliseconds of difference between the current time and the trade time
+2023-01-01 20:38:01,343 WARNING :: Binance ETHUSDT: 3033 milliseconds of difference between the current time and the trade time
+2023-01-01 20:38:03,465 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:38:09,514 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:38:09,642 WARNING :: Binance BNBUSDT: 2068 milliseconds of difference between the current time and the trade time
+2023-01-01 20:38:17,179 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:39:07,481 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:39:09,397 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:39:23,507 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:40:02,171 INFO :: Binance New candle for BTCUSDT 1m
+2023-01-01 20:40:15,581 INFO :: Binance New candle for BNBUSDT 1m
+2023-01-01 20:40:28,202 WARNING :: Binance BNBUSDT: 2177 milliseconds of difference between the current time and the trade time
+2023-01-01 20:40:29,550 INFO :: Binance New candle for ADAUSDT 1m
+2023-01-01 20:40:38,435 WARNING :: Binance BTCUSDT: 2009 milliseconds of difference between the current time and the trade time
+2023-01-01 20:41:02,040 ERROR :: error from callback <bound method BinanceClient._on_close of <connectors.binance.BinanceClient object at 0x000002296B0AEFD0>>: BinanceClient._on_close() takes 2 positional arguments but 4 were given
+2023-01-01 20:41:02,041 ERROR :: Binance connection error: BinanceClient._on_close() takes 2 positional arguments but 4 were given
