@@ -26,7 +26,7 @@ logger.addHandler(file_handler)
 
 
 if __name__ == '__main__':  # Execute the following code only when executing main.py (not when importing it)
-
+    #Enter APIs of your accounts on binance and bitmex
     binance = BinanceClient("",
                             "",
                             testnet=True, futures=True)
